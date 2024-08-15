@@ -3,7 +3,7 @@
 
 # Link-Repo Setup Interface
 
-## Problem Statement
+## Solution to a challenge
 
 Connecting and initializing GitHub repositories on a local machine can be a time-consuming and error-prone process. Developers often face repetitive tasks when linking repositories, especially during the initial setup and configuration. Our goal is to simplify this process with a script-based solution that automates repository creation and backup management. This project was created by the EGOproject team, with special thanks to our community of contributors for their invaluable input and testing.
 

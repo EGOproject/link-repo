@@ -53,6 +53,7 @@ cls
 
 ::making backup files
 
+::git ignore
 echo link-repo-windows.bat >> .gitignore
 echo %reponame%-backup-offline.bat >> .gitignore
 echo %reponame%-backup-online.bat >> .gitignore
